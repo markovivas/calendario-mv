@@ -1,4 +1,4 @@
-# calendario-mv
+# Calendário MV — Gerenciamento de Eventos
 
 Sistema de calendário web multi-usuário com gerenciamento de eventos, categorias, arquivos anexos e eventos recorrentes. Interface moderna com efeito glassmorphism e design responsivo.
 
